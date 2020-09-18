@@ -4,7 +4,8 @@ esta es un chat muy básico hecho con
 
 [socket.io](https://socket.io/docs)\
 [expressjs](https://expressjs.com)\
-[express-session](https://www.npmjs.com/package/express-session)
+[express-session](https://www.npmjs.com/package/express-session)\
+[![NPM Version][npm-image]][npm-url]
 
 ## instalación
 
@@ -20,3 +21,4 @@ node index.js
 ```
 
 se ejecutar en [http://localhost:2000/](http://localhost:2000/)
+
