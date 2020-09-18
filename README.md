@@ -10,6 +10,7 @@ esta es un chat muy básico hecho con
 
 ```
 git clone https://github.com/joselmy-diaz/chat-vasico-socket.io.git
+cd chat-vasico-socket.io
 npm instal
 ```
 
